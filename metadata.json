@@ -1,0 +1,6 @@
+{
+  "name": "महावीर फर्टिलायझर (Mahaveer Fertilizer)",
+  "description": "महावीर फर्टिलायझर, जाधवाडी मार्केटयार्ड, छत्रपती संभाजीनगर येथे खते, बियाणे, कीटकनाशके, कृषी औषधे, फवारणी उपकरणे आणि विविध कृषी साहित्य उपलब्ध. उत्पादनांच्या उपलब्धतेसाठी संपर्क करा.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
